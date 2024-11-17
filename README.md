@@ -9,4 +9,10 @@ Process:
 
 1.https://community.cloud.databricks.com/
 
-2.
+2. settings-Advanced-DBFS-on
+
+   ![image](https://github.com/user-attachments/assets/49eb64bc-135f-4ec5-89d1-cc96c3bf35bb)
+
+3.create a cluster
+4.in catelog-DBFS-file store-tables
+
