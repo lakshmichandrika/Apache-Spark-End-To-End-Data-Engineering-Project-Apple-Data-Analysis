@@ -6,4 +6,7 @@ We have used sources like CSV, Parquet, and Delta Table then used Factory Patter
 Then we used PySpark DataFrame API and Spark SQL to write the business transformation logic. In the loader part, we have loaded data into two fashion one using DataLake and another by Data LakeHouse. 
 
 Process:
+
 1.https://community.cloud.databricks.com/
+
+2.
