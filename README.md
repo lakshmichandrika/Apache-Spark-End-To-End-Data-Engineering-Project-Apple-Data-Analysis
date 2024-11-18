@@ -14,5 +14,8 @@ Process:
    ![image](https://github.com/user-attachments/assets/49eb64bc-135f-4ec5-89d1-cc96c3bf35bb)
 
 3.create a cluster
-4.in catelog-DBFS-file store-tables
+
+4.in catalog-DBFS-file store-tables-select a table-create table with ui-select cluster-preview data-create table
+![image](https://github.com/user-attachments/assets/88c80b7d-517f-43fa-8345-817137028b06)
+
 
